@@ -1,7 +1,7 @@
 # QuestionReponseModele
 
 Objectif : Développer un algorithme permettant de répondre à une ou plusieurs questions utilisant LA meilleure technologie disponible sur le marché
-Le score des réponses doit être de minimum 80% et être le meileur possible
+Le score des réponses doit être de minimum 80% et être le meilleur possible
 Technologie libre, pas de préférence personnelle
 
 Après une première recherche :
@@ -28,4 +28,5 @@ Après une première recherche :
 
 
 Les étapes :
+0 - Mise en place de l'environnement de développement cohérent et qui fonctionne
 1 - Data-preprocessing
